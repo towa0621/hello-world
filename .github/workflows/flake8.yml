@@ -1,9 +1,6 @@
-name: flake8
+name: Flake8 Lint
 
-on:
-  pull_request:
-    paths:
-      - '**.py'
+on: [push, pull_request]
 
 jobs:
   flake8-lint:
