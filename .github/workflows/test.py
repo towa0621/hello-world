@@ -1,2 +1,2 @@
 def hello_world():
-    printf("hello, World!")
+    print("hello, World!")
