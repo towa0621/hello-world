@@ -1,0 +1,5 @@
+title: My GitHub Pages Site
+description: This site summarizes what I learned in the lecture.
+baseurl: ""
+url: "https://towa0621.github.io"
+theme: minima
