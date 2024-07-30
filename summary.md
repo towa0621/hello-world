@@ -3,20 +3,20 @@ layout: default
 title: Summary
 ---
 
-# Summary of the Lecture
+# ソフトウェア工学で学んだこと
 
-Here is the summary of what I learned in the lecture:
+以下に今までこの講義で学んだことをまとめる
 
-## Topic 1
-- Point 1
-- Point 2
+## git
 
-## Topic 2
-- Point 1
-- Point 2
+gitとは、分散管理型のバージョン管理システムのことである。中央サーバに依存せず、各開発者がリポジトリを持つことができる。これはオフラインでも作業が可能である。
 
-## Topic 3
-- Point 1
-- Point 2
+## コミット
+
+コミットとは、ファイルの作成・変更・削除の記録を保存するためのスナップショット。一般的に変更内容を説明するメッセージをつける。これによりほかの人や未来の自分が変更内容を理解しやすくなる。
+
+## レポジトリ
+
+gitが管理するプロジェクトのフォルダのことである。ローカルレポジトリとリモートレポジトリに分かれており、ローカルレポジトリは個々のプロジェクト実行環境のこと、リモートレポジトリはGithubやGitlabなどの共有の管理場所のことである。
 
 *Additional topics can be added as necessary.*
