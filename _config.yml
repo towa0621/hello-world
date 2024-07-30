@@ -1,5 +1,5 @@
-title: My GitHub Pages Site
-description: This site summarizes what I learned in the lecture.
+title: ソフトウェア工学2024
+description: 私がソフトウェア工学2024で学んだことについて掲載してあります。
 baseurl: ""
 url: "https://towa0621.github.io"
 theme: minima
